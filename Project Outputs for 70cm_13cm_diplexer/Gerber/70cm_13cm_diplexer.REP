@@ -1,0 +1,210 @@
+*************************************************************
+FileName = 70cm_13cm_diplexer.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : 70cm_13cm_diplexer.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 70cm_13cm_diplexer.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 70cm_13cm_diplexer.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 70cm_13cm_diplexer.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 70cm_13cm_diplexer.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 70cm_13cm_diplexer.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 70cm_13cm_diplexer.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 70cm_13cm_diplexer.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 70cm_13cm_diplexer.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D24
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : 70cm_13cm_diplexer.GM2
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : 70cm_13cm_diplexer.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : 70cm_13cm_diplexer.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D34
+*************************************************************
+

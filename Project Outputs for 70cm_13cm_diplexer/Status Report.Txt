@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [70cm_13cm_diplexer.PcbDoc]
+   Generated File[70cm_13cm_diplexer.TXT]
+   Generated File[70cm_13cm_diplexer.LDP]
+   Generated File[70cm_13cm_diplexer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 4:30:49 On 6.6.2019

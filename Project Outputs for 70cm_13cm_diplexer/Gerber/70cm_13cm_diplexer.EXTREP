@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 70cm_13cm_diplexer.GBR   6.6.2019  4:30:48
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------
