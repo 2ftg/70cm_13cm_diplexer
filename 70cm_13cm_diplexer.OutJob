@@ -244,7 +244,7 @@ OutputEnabled8_OutputMedium3=2
 OutputEnabled8_OutputMedium4=0
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
@@ -274,9 +274,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\
+OutputFilePath3=C:\Data\ELE\70cm_13cm_diplexer\Project Outputs for 70cm_13cm_diplexer\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for 70cm_13cm_diplexer
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -328,7 +328,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=Project Outputs for Free Documents\.PDF
 OpenOutputs2=1
-RelativeOutputPath3=Project Outputs for Free Documents\
+RelativeOutputPath3=C:\Data\ELE\70cm_13cm_diplexer\Project Outputs for 70cm_13cm_diplexer\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
